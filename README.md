@@ -7,6 +7,5 @@ ps. fuck csgo fuck gamesense this is so aids to debug and code over 50+ leaked s
 
 also there should be normal config support for offical gamesense and luas at some point right now its using some .dog from another source thing maybe the problem is im using too many sources idgaf ts getting done 
 
-<img width="1280" height="1080" alt="image" src="https://github.com/user-attachments/assets/786b7b29-426a-4e1f-b7ef-81afa5ff3514" />
 
 i got it in a working state now ensuring all modules are working correctly
